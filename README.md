@@ -1,6 +1,15 @@
-- 👋 Hi, I’m @imbadsry, i'm a 14 yo mboy
-- 👀 I’m interested in making plugins for minecraft servers
-- 🌱 I’m currently learning Java
+Yo i'm a 14yo boy who started coding in Java mid july 2021
+
+About me ?
+😴 My name is Axel 🏳️‍🌈
+🎵 I waste my time in playing video-games, coding and listening to music
+☕ I'm learning Java with OpenClassroom and some youtubers like ItsAlexousd and Graven
+How to reach me :
+📭 Discord : IroyaS#0501
+📮 Email : imbadsry@gmail.com
+Projects i'm currently working on :
+nothing lol i'm still learning
+
 
 
 <!---
