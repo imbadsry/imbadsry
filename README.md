@@ -1,1 +1,3 @@
-idrlk who i am
+15yo
+transgender (mtf)
+dev in : java, js, c#
